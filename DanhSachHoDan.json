@@ -1,0 +1,20 @@
+[
+  {
+    "STT": 1,
+    "MaHoDan": "A321",
+    "TenChuHo": "Tr\u01B0\u01A1ng Ph\u01B0\u01A1ng Nam",
+    "CCCD": "045207006456",
+    "DiaChi": "32, \u0110\u01B0\u1EDDng N1",
+    "SDT": "0385850957",
+    "GhiChu": ""
+  },
+  {
+    "STT": 2,
+    "MaHoDan": "A0001",
+    "TenChuHo": "Tr\u01B0\u01A1ng Ph\u01B0\u01A1ng Nam",
+    "CCCD": "0123456789",
+    "DiaChi": "05, V\u00F5 V\u0103n Ng\u00E2n",
+    "SDT": "0385850957",
+    "GhiChu": ""
+  }
+]
